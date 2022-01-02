@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006714038054",
+    "firebase_url": "https://bbms-caf9d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bbms-caf9d",
+    "storage_bucket": "bbms-caf9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006714038054:android:62f99f47df3ef4d8d043e7",
+        "android_client_info": {
+          "package_name": "com.example.bbms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006714038054-8musg185oci3u408knr56d6pm4hd7vhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqC0oTUCJsJvuKlsePvnb1mUTcgotnPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006714038054-8musg185oci3u408knr56d6pm4hd7vhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

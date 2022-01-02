@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/BBMS - Copy - Copy/app/src/main/res/layout/activity_admin_see_single_patient.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS - Copy - Copy/app/src/main/res/layout/activity_admin_view_hospital_patient.xml" value="0.20572916666666666" />
+        <entry key="..\:/Android/BBMS - Copy - Copy/app/src/main/res/layout/activity_admin_view_swipe.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS - Copy - Copy/app/src/main/res/layout/recycleview_row.xml" value="0.20572916666666666" />
+        <entry key="..\:/Android/BBMS - Copy/app/src/main/res/layout/activity_admin_see_single_patient.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS - Copy/app/src/main/res/layout/activity_admin_view_hospital_patient.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS - Copy/app/src/main/res/layout/recycleview_row.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_admin_login.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_admin_see_hospital.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_admin_see_single_patient.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_admin_view_hospital_patient.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_hospital_add_donor.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_hospital_delete_donor.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_hospital_logged_in_menu.xml" value="0.264" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_hospital_login.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_hospital_signup.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_hospital_view_donor.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_single_donor_detail.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/activity_user_login.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS/app/src/main/res/layout/del_layout.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout-v31/listview_scam.xml" value="0.2" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_admin_actual_view_appointment.xml" value="0.17777777777777778" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_admin_logged_in_menu.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_admin_login.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_admin_see_hospital.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_admin_see_single_patient.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_admin_view_appointment.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_admin_view_hospital_patient.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_admin_view_swipe.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_book_apointment.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_book_appointment.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_booking_slot.xml" value="0.20833333333333334" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_hospital_add_donor.xml" value="0.1787037037037037" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_hospital_logged_in_menu.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_hospital_view_appointment.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_reciever_auth.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/activity_reciever_logged_in.xml" value="0.25" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/del_layout.xml" value="0.1787037037037037" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/listview_item.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/listview_scam.xml" value="0.264" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/listview_scam_1.xml" value="0.2222222222222222" />
+        <entry key="..\:/Android/BBMS_Hospital_Trial/app/src/main/res/layout/recycleview_row.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
